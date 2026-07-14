@@ -1,0 +1,4 @@
+1:create repo and clone it to local 
+2: create code.py and add code to it.It wil lsave csv files.
+3: Do push to git before init DVC
+
